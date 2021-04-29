@@ -22,5 +22,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technikks/employeeManagementSystem"
+  },
   "homepage": "https://github.com/technikks/employeeManagementSystem"
 }

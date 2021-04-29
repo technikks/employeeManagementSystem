@@ -10,6 +10,6 @@ INSERT INTO company_role (title, salary, dept_id) VALUES
 ('Server', 20000.00, 1);
 
 INSERT INTO employees (first_name, last_name, emp_role_id, manager_id) VALUES
-('Mark', 'Danzino', 1, null),
-('Abigail', 'Jenner', 6, 1),
-('Derek', 'Fisher', 2, null);
+('Steve', 'Rodgers', 1, null),
+('Tony', 'Stark', 6, 1),
+('Natasha', 'Romanoff', 2, null);
