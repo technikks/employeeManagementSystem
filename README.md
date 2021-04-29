@@ -9,7 +9,7 @@ This application helps manage company's employees using interfaces known as Cont
 
 
 ## Walkthrough Video
-Coming soon :) 
+[See the app live!](https://drive.google.com/file/d/16TSvoXxvVu0Y3yrCiMvAFBl8jepDNN_N/view?usp=sharing)
 
 ## Technologies Used
 * Node
